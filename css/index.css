@@ -1,0 +1,13 @@
+.swiper {
+  width: 600px;
+  height: 300px;
+}
+.swiper--foto1 {
+  background: url("../images/foto1.jpg") top left/cover no-repeat;
+}
+.swiper--foto2 {
+  background: url("../images/foto2.jpg") top left/cover no-repeat;
+}
+.swiper--foto3 {
+  background: url("../images/foto3.jpg") top left/cover no-repeat;
+}/*# sourceMappingURL=index.css.map */

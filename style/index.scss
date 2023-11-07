@@ -1,0 +1,16 @@
+.swiper{
+
+  width: 600px;
+  height: 300px;
+  &--foto1{
+    background:url("../images/foto1.jpg")top left/cover no-repeat;
+  }
+  &--foto2{
+    background:url("../images/foto2.jpg")top left/cover no-repeat;
+  }
+  &--foto3{
+    background:url("../images/foto3.jpg")top left/cover no-repeat;
+  }
+
+  
+}
